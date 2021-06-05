@@ -18,7 +18,7 @@ data_int = 9
 
 print("data :", data_int, ",type =",type(data_int)) 
 
- 
+
 
 # mengubah data int ke data lainnya 
 

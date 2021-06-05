@@ -1,43 +1,43 @@
 # Konsep Python -4 
 
- 
-  
+
+
 print("=====>Konversi Satuan Temperature<=====") 
 # Program Konversi Celsius ke Satuan yg lain 
 
- 
-  
+
+
 print("\n===PROGRAM KONVERSI TEMPERATURE===\n") 
- 
+
 
 celcius = float(input("Masukkan suhu : ")) 
 
 print("Suhu Celsius adalah", celcius, "Celcius") 
- 
+
 
 print("--->Reamur") 
- 
+
 
 reamur = (4/5) * celcius 
 print("Suhu Reamur adalah", reamur, "Reamur") 
- 
+
 
 print("--->Fahrenheit")
- 
+
 
 fahrenheit = ((9/5) * celcius) + 32 
 print("Suhu Fahrenheit adalah",fahrenheit, "fahrenheit") 
 
 
 print("--->kelvin") 
- 
+
 
 kelvin = celcius + 273 
 print("Suhu Kelvin", kelvin, "Kelvin") 
 
- 
-  
- print("========================================================================")
+
+
+print("========================================================================")
 
 
 
@@ -72,4 +72,4 @@ celcius = kelvin - 273 # rumus
 fahrenheit = ((9/5) * celcius) + 32 # rumus
 
  
-print("Hasil Suhu Kelvin ke Fahrenheit adalah ",fahrenheit, "Fahrenheit") 
+print("Hasil Suhu Kelvin ke Fahrenheit adalah ",fahrenheit, "Fahrenheit")

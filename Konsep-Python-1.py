@@ -32,8 +32,8 @@ panjang = 25
 
 # Panggilan Pertama
 
-print("Nilai a =", a)
-print("Nilai b =", b)
+print("Nilai a = ", a)
+print("Nilai b = ", b)
 print("Nilai panjang =", panjang)
 # pada ("Nilai a =") adalah compile dan (a) variabel
 
@@ -42,7 +42,7 @@ print("Nilai panjang =", panjang)
 
 x = a 
 
-print("Nilai = b", a)
+print("Nilai x = ", x)
 
 
 
@@ -54,10 +54,9 @@ print("tipe data")
 # ket : Angka Integer tidak berkoma  
 
 data_integer = 11 # Ini bertipe Integer 
-print(type(data_integer)) # Tanda Aje 
 
+print(type(data_integer)) 
 print("data:", data_integer) # Int 
-
 print("- bertipe :", type(data_integer)) # Int 
 
  
@@ -65,8 +64,8 @@ print("- bertipe :", type(data_integer)) # Int
 # Tipe data : Angka Dengan Koma (Float) 
 
 data_flote = 1.5 
-print("data:", data_flote) # float 
 
+print("data:", data_flote) # float 
 print("- bertipe :", type(data_flote)) # float 
 
  
@@ -74,8 +73,8 @@ print("- bertipe :", type(data_flote)) # float
 # Tipe data : Kumpulan Karakter (String) 
 
 data_string = "mantap" # Yang biasa digunakan 
-print("data:", data_string) # str 
 
+print("data:", data_string) # str 
 print("- bertipe :", type(data_string)) # str 
 
  
@@ -83,20 +82,18 @@ print("- bertipe :", type(data_string)) # str
 # Tipe data : Biner true/false (Boolean) 
 
 data_bool = True # Nilai nya bisa true/false 
-print("data:", data_bool) # bool 
 
+print("data:", data_bool) # bool 
 print("- bertipe :", type(data_bool)) # bool 
 
  
 
 # Tipe data khusus  
-
 # Bilang Kompleks  
 
 data_complex = complex(5,6) 
 
 print("data:", data_complex) # Complex 
-
 print("- bertipe :", type(data_complex)) # Complex 
 
 

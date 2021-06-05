@@ -4,12 +4,12 @@
 
 print("\nOperasi Logika dan Boolean") 
 # not, or, and, xor 
- 
-  
-  
+
+
+
 print("\n========NOT========") 
 
-  
+
 a = True 
 
 c = not a 

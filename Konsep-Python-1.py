@@ -13,7 +13,7 @@ print("Hello World")
   
 """Stay Save Brooo MultiLine""" 
 
-a = 10 # Ini tanda juga
+a = 10 # Tanda Comment ini tidak akan di eksekusi
 
 print(a) 
 

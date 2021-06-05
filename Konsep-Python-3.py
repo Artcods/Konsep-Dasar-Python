@@ -13,7 +13,7 @@ print("data =", data, ",type =", type(data))
 
  
 
-print("\n===input dengan data int===") 
+print("\n===Input dengan Data Integer===") 
 
 
 data_int = int(input("masukan angka: ")) 
@@ -22,7 +22,7 @@ print("data =", data_int, ",type =", type(data_int))
 
  
 
-print("\n===Input dengan data float===") 
+print("\n===Input dengan Data Float===") 
 
 
 data_float = float(input("masukan angka: ")) 
@@ -31,7 +31,7 @@ print("data =", data_float, ",type =", type(data_float))
 
  
 
-print("\n===Input dengan bool===") 
+print("\n===Input dengan Boolean===") 
 
 
 data_bool = bool(input("masukan angka: ")) 
@@ -40,7 +40,7 @@ print("data =", data_bool, ",type =", type(data_bool))
 
  
 
-print("\ncontoh dengan bool/biner") 
+print("\ncontoh dengan Boolean dan Biner") 
 
 
 biner = bool(int(input("masukan nilai boolean: "))) 
@@ -171,7 +171,7 @@ print(x,'//',y,'=',hasil)
 
  
 
-print("===Operasi prioritas===") 
+print("===Operasi Prioritas===") 
  
 
 hasil = a + y - b * x / a ** y % b // x 
@@ -188,8 +188,6 @@ print(a,'-',y,'*',b,'+',x,'/',a,'**',y,'%',b,'//',x,'=',hasil)
 
 # Hasilnya akan berbeda jika ada tanda kurung 
 # Dikarnakan tanda yg dikurung akan mengambil langka pertama 
-
- 
 
  
 

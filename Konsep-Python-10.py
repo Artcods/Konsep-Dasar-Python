@@ -83,7 +83,7 @@ print("Contoh Pertama")
   
 hutang = input("Masukkan Uang anda =") 
 
-Uang   = 20000 
+Uang = 20000 
  
 
 if int(hutang) > Uang : 
@@ -109,7 +109,7 @@ print("\nContoh Pertama")
 
 hutang = input("Masukkan Uang anda =")  
 
-Uang   = 20000 
+Uang = 20000 
 
 
 if int(hutang) < Uang : 
@@ -153,8 +153,10 @@ elif baik & rajin & (si == "Orang Baik"):
 else: 
     print("Gak Sopan") 
     
+   
     
 ---><---    
+
 
     
 si = "Orang Jahat"

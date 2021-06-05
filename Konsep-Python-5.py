@@ -203,3 +203,4 @@ print("nilai y = ",y,',id = ',hex(id(y)))
 hasil = x is not y 
 
 print('x is not y', hasil) # dan hasilnya akan true 
+
